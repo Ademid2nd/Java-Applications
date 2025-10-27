@@ -1,0 +1,11 @@
+public class OperatorsPart1{
+	public static void main(String[] args){
+		int = 50;
+		
+		num += 8;
+		System.out.printf("The value of num is %d%n", num)
+		
+		num -= 7;
+		System.out.printf("The Value of num is %d%n", num);
+	}
+}
